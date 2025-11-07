@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MRuhan17
+- 👋 Hi, I’m Ruhulalemeen (Ruhan) Mulla
 - 👀 I’m interested in Artifical Intelligence
 - 🌱 I’m currently learning MLR Institute of Technology
 - 💞️ I’m looking to collaborate on AI projects, machine learning models, data science, or any innovative tech projects that involve AI/ML, deep learning, and automation.
