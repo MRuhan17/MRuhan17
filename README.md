@@ -1,6 +1,6 @@
 # MRuhan17
 
-[Resume](#) • [Codeforces](https://codeforces.com/profile/your-handle) • [LinkedIn](https://linkedin.com/in/your-profile)
+[Resume](#) • [LeetCode](https://leetcode.com/u/MRuhan17/) • [LinkedIn](https://www.linkedin.com/in/ruhulalemeen-mulla/)
 
 ---
 
