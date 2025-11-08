@@ -1,6 +1,6 @@
 # MRuhan17
 
-[Resume](#) • [LeetCode](https://leetcode.com/u/MRuhan17/) • [LinkedIn](https://www.linkedin.com/in/ruhulalemeen-mulla/)
+[Resume](https://github.com/MRuhan17/MRuhan17/blob/main/Ruhulalemeen%20Mulla%20Resume.docx) • [LeetCode](https://leetcode.com/u/MRuhan17/) • [LinkedIn](https://www.linkedin.com/in/ruhulalemeen-mulla/)
 
 ---
 
@@ -35,7 +35,7 @@ performance, scalability, and intelligent automation.
 ---
 
 ### 🌐 Connect
-📫 [LinkedIn](https://linkedin.com/in/your-profile)  
+📫 [LinkedIn](https://www.linkedin.com/in/ruhulalemeen-mulla/)  
 💻 [GitHub](https://github.com/MRuhan17)  
-🏆 [Codeforces](https://codeforces.com/profile/your-handle)
+
 
