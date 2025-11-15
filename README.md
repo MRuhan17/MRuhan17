@@ -1,6 +1,6 @@
 # MRuhan17
 
-[Resume](https://github.com/MRuhan17/MRuhan17/blob/main/Ruhulalemeen%20Mulla%20Resume.pdf) • [LeetCode](https://leetcode.com/u/MRuhan17/) • [LinkedIn](https://www.linkedin.com/in/ruhulalemeen-mulla/)
+[Resume](https://github.com/MRuhan17/MRuhan17/blob/main/Ruhulalemeen%20Mulla%20Resume.pdf) • [LeetCode](https://leetcode.com/u/MRuhan17/) • [LinkedIn](https://www.linkedin.com/in/ruhulalemeen-mulla/) • [Portfolio](https://mruhan17.github.io/portfolio/)
 ---
 
 ### 👨‍💻 About Me
