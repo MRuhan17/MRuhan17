@@ -3,7 +3,7 @@
 [Resume](https://github.com/MRuhan17/MRuhan17/blob/main/Ruhulalemeen%20Mulla%20Resume.pdf) • [LeetCode](https://leetcode.com/u/MRuhan17/) • [LinkedIn](https://www.linkedin.com/in/ruhulalemeen-mulla/) • [Portfolio](https://mruhan17.github.io/portfolio/)
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 With a strong foundation in **competitive programming**,  
 I’ve developed deep problem-solving skills and expertise in  
@@ -15,7 +15,7 @@ performance, scalability, and intelligent automation.
 
 ---
 
-### 🧠 Interests
+###  Interests
 - Backend & API Engineering  
 - Machine Learning  
 - Competitive Programming  
@@ -23,7 +23,7 @@ performance, scalability, and intelligent automation.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRuhan17&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRuhan17&theme=aura)
